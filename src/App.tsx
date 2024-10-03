@@ -22,14 +22,8 @@ import { TextGenerateEffectDemo } from './Components/Acternity/text-generate-eff
 import { BackgroundLinesDemo } from './Components/Acternity/background-lines/background-lines'
 
 
-
-
-
-
-
 function App() {
-
-
+  
   return (
     <>
       <div className='relative overflow-x-hidden bg-black '>
