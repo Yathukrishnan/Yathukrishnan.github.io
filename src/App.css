@@ -1,0 +1,52 @@
+body {
+    overflow-x: hidden;
+    background-color: #000319;
+    
+}
+.bg-black {
+    background-color: #000;
+  }
+  
+  .text-white {
+    color: #fff;
+  }
+  
+  .border-white {
+    border-color: #fff;
+  }
+  
+  .rounded-full {
+    border-radius: 9999px;
+  }
+  
+  .shadow-input {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .bg-black {
+    background-color: #000;
+  }
+  
+  .text-white {
+    color: #fff;
+  }
+  
+  .hover\:text-red-500:hover {
+    color: #ff0000;
+  }
+  
+  .transition-colors {
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .duration-300 {
+    transition-duration: 300ms;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+ 
+
+  
